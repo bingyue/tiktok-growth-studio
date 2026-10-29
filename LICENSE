@@ -1,5 +1,5 @@
 REEL LAB · TikTok Content Growth Studio 自定义授权协议
-版本：1.0
+版本：1.1
 生效日期：2026-10-30
 
 Copyright (c) 2026 越哥。保留所有权利。
@@ -13,69 +13,89 @@ Copyright (c) 2026 越哥。保留所有权利。
 第三方依赖、商品资料、图片、视频、评论、品牌标识及其他第三方内容
 不因本协议获得新的授权，仍遵循各自的许可证和权利声明。
 
-本协议为自定义的事先授权协议，不是 Apache License 2.0，亦不授予
-任何 Apache、MIT 或其他开源许可证所规定的普遍使用许可。
+本项目采用“非商业使用允许，商业使用须事先获得书面授权”的
+自定义协议，不是 Apache License 2.0，也不是不限制商业用途的
+开源许可证。未明确授予的权利均予保留。
 
-二、所有使用均须事先获得书面授权
+二、非商业使用许可
 
-除本协议第三条所述情形外，任何个人或组织对本项目的任何使用，
-均须事先获得作者越哥的明确书面授权。该要求同时适用于商业和
-非商业用途，包括但不限于：
+在遵守本协议的前提下，作者授予任何个人或组织免费的、非独占的
+非商业使用许可，无须另行申请书面授权。许可范围包括为非商业
+目的学习、研究、评估、测试、复制、安装、运行、部署、修改、
+改编、集成、制作衍生作品、公开演示及分发本项目。
 
-1. 为学习、研究、评估、测试、个人用途或组织内部用途而安装、
-   运行、部署或集成本项目；
-2. 复制、修改、改编、二次开发，或制作衍生作品；
-3. 分发、转载、转售、再许可，或向他人提供本项目或衍生作品；
-4. 提供 SaaS、托管服务、客户交付、付费或免费的产品和服务；
-5. 在课程、培训、内容营销、公开演示或其他传播活动中使用
-   本项目的原创代码、文档、模板、截图或案例材料。
+非商业使用是指不以获得直接或间接商业利益为目的的使用，例如
+个人学习、非商业研究、无商业推广或变现目的的免费教学和分享。
+组织在正式商用前进行不参与实际业务生产、不向客户提供服务的
+纯技术评估与测试，也可适用本条许可。
 
-公开展示源代码、提供技术说明、允许下载、标记作者、点赞、关注、
-提交问题或提交代码，均不构成上述使用授权。作者未回复授权申请
-不表示同意。未明确授予的权利均予保留。
+复制、修改、展示或分发本项目及其衍生作品时，须保留本协议、
+NOTICE、作者署名和相关权利声明；对修改内容须标明修改方及
+修改说明。仅展示截图或文档摘录时，应保留作者署名并提供本项目
+地址或本协议链接。接收者对本项目及衍生部分的使用须继续遵守
+本协议，不得移除商业授权要求或通过再许可扩大本协议的权限。
 
-三、法律及托管平台保留的权利
+三、商业使用须事先获得书面授权
+
+任何以获得直接或间接商业利益为目的的使用，均须事先获得作者
+越哥的明确书面授权，包括但不限于：
+
+1. 将本项目用于企业、商家或其他商业主体的实际业务生产、内部
+   运营、商品营销、带货内容生产、广告投放或业务决策；
+2. 将本项目或其衍生作品用于收费产品、SaaS、托管服务、咨询、
+   客户交付、商业集成、销售、转售或其他商业服务；
+3. 在付费课程、培训、商业演示、内容营销、广告、赞助推广或
+   其他具有商业推广或变现目的的活动中使用本项目的原创材料；
+4. 以免费、试用、赠送等形式提供本项目或服务，以获取客户、
+   推广商业业务或支持其他商业收入。
+
+是否商业使用取决于实际目的与场景，不仅取决于是否直接收费
+或使用者的组织类型。将非商业用途转为商业用途前，须先取得
+相应书面授权；本协议第二条的纯技术评估与测试除外。
+
+下载、署名、关注、提交问题或代码，以及作者未回复申请，均不
+构成商业使用授权。商业授权不会因获得非商业使用许可而自动产生。
+
+四、商业授权申请与范围
+
+请通过“越哥聊AI”的官方账号联系作者越哥，说明申请主体、用途、
+使用方式、拟使用的版本或材料、是否涉及修改、分发或公开展示，
+以及希望获得的授权期限和范围。
+
+有效商业授权须为可留存、可核验且能够确认由作者发出的明确书面
+许可，或双方签署的授权协议。授权主体、用途、期限、地域、费用、
+分发、修改及其他权限以该书面授权为准；授权不得擅自转让或扩大
+范围。双方另行明确约定的书面条款优先适用于该次授权范围内的
+事项。本协议第二条授予的非商业权限不以取得商业授权为前提。
+
+五、法律及托管平台保留的权利
 
 本协议不限制适用法律强制保留的权利，也不撤销作者因将仓库公开
 托管于 GitHub 而已经依据该平台适用服务条款授予的平台内查看、
-Fork 等必要权利。
+Fork 等必要权利。平台内查看或 Fork 本身不构成商业授权。
+本协议第二条授予的非商业权限独立适用。
 
-仅依据上述法律或平台规则取得的权限，不自动扩展为本项目的
-运行、部署、修改、商业利用或平台规则范围以外的再分发授权。
-对于超出相应法律或平台许可范围的使用，仍须依第二条申请授权。
+六、版权、署名及第三方材料
 
-四、授权申请与范围
-
-请通过“越哥聊AI”的官方账号联系作者越哥，说明申请主体、使用
-目的、使用方式、拟使用的版本或材料、是否涉及商业活动、分发或
-公开展示，以及希望获得的授权期限和范围。
-
-有效授权须为可留存、可核验且能够确认由作者发出的明确书面许可，
-或双方签署的授权协议。授权主体、用途、期限、地域、费用、分发、
-修改及其他权限以该书面授权为准；未明示授予的事项不获授权。
-授权不得擅自转让或扩大范围。双方另行明确约定的书面条款优先
-适用于该次授权范围内的事项。
-
-五、版权、署名及第三方材料
-
-获准复制、修改或分发时，应按书面授权保留本协议、NOTICE、作者
-署名及相关权利声明，并清楚标明修改内容和修改方；署名本身不能
-代替授权。不得将本项目标注为标准 Apache 2.0 或其他未获作者
-明确许可的开放使用许可证。
-
+不得将本项目标注为标准 Apache 2.0 或其他与本协议不一致的许可。
 本协议不授予“越哥”“越哥聊AI”、REEL LAB 或第三方名称、商标、
 标识的营销背书使用权。不得暗示作者或第三方认可、合作或背书。
+按本协议保留作者署名不受此限制。
+
 第三方依赖和内容的使用应另行满足其各自许可；作者不授予其无权
 授予的第三方权利。详见 THIRD_PARTY_NOTICES.md。
 
-六、超范围使用与终止
+七、超范围使用与终止
 
-未获得书面授权、超出授权范围，或违反适用授权条件的使用，应
-立即停止，并在法律允许且不存在法定留存义务的范围内停止分发、
-停止提供相关服务，删除或停止使用未经授权的副本。另行授权协议
-对补救、终止或留存有明确约定的，按相应约定执行。
+未经书面授权进行商业使用、超出商业授权范围，或违反本协议
+非商业使用条件的，应立即停止相应违规使用，并在法律允许且
+不存在法定留存义务的范围内停止相关分发、服务，删除或停止使用
+未经许可的副本。违反本协议的使用者，其本协议项下的使用许可
+随违规行为发生而终止；恢复许可须取得作者明确书面同意。
+另行授权协议对补救、终止或留存有明确约定的，按相应约定执行。
+遵守本协议的非商业使用者无需因本条另行申请书面授权。
 
-七、免责声明与责任限制
+八、免责声明与责任限制
 
 除另行书面承诺或适用法律另有强制规定外，本项目按“现状”和
 “现有”状态提供，不作任何明示或默示保证，包括适销性、特定
@@ -86,14 +106,20 @@ Fork 等必要权利。
 允许的最大范围内，作者不对因使用或无法使用本项目而造成的
 直接、间接、附带、特殊或后果性损失承担责任。
 
-本协议以中文文本为准。本协议本身不替代任何具体使用场景所需的
-明确书面授权。
+本协议以中文文本为准。本协议已授予符合条件的非商业使用许可，
+但不替代商业使用所需的明确书面授权。
 
 English summary (the Chinese text governs):
-All rights reserved. Prior express written authorization from 越哥
-(越哥聊AI) is required for all use, including personal, educational,
-research, evaluation, non-commercial and commercial use, subject only to
-applicable mandatory law and rights already granted under the hosting
-platform's applicable terms. This is a custom authorization-required
-license, not Apache-2.0 or an open-source license. Third-party materials
-retain their own licenses and rights. No general use license is granted.
+Non-commercial use is permitted free of charge without separate approval,
+including study, research, evaluation, copying, running, modification,
+deployment, demonstration and redistribution, subject to the attribution,
+notice retention and non-commercial conditions in this license. Prior
+express written authorization from 越哥 (越哥聊AI) is required for
+commercial use, including internal business production, commercial
+services, marketing, monetized training and customer delivery. Commercial
+purpose includes direct or indirect commercial benefit, even without a
+direct fee. Pure technical evaluation without business production or
+customer service is permitted under the non-commercial grant. Mandatory
+legal and hosting-platform rights remain unaffected. Third-party materials
+retain their own licenses and rights. This is a custom license, not
+Apache-2.0 or an unrestricted open-source license. All other rights reserved.

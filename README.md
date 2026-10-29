@@ -9,7 +9,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D22.13-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-161823?logo=react&logoColor=25F4EE)](https://react.dev/)
-[![License](https://img.shields.io/badge/License-Authorization_Required-FE2C55)](LICENSE)
+[![License](https://img.shields.io/badge/License-Commercial_Use_Requires_Authorization-FE2C55)](LICENSE)
 
 **作者：越哥｜全网同名：越哥聊AI**
 
@@ -17,7 +17,7 @@
 
 </div>
 
-> **授权要求：所有使用均须事先获得作者越哥的明确书面授权，包括个人、学习、研究、测试、非商业和商业用途。** 请通过全网同名“越哥聊AI”的官方账号联系作者。完整条款见 [LICENSE](LICENSE)。
+> **授权要求：非商业使用允许，无须另行申请；商业使用须事先获得作者越哥的明确书面授权。** 请通过全网同名“越哥聊AI”的官方账号联系作者。完整条款见 [LICENSE](LICENSE)。
 
 ![TikTok 内容作战室：真实商品与第二轮内容](docs/case-assets/screenshots/01-home.png)
 
@@ -70,7 +70,7 @@ flowchart LR
 
 ## 快速开始
 
-以下安装、运行、测试和案例复演步骤面向已获得相应书面授权的使用者。
+以下步骤可用于遵守本协议的非商业学习、研究和测试；投入商业使用前，请先获得作者书面授权。
 
 ### 1. 获取项目
 
@@ -278,11 +278,15 @@ GitHub：[bingyue](https://github.com/bingyue) · 项目：[tiktok-growth-studio
 
 ## 许可证与授权
 
-本项目采用 **[REEL LAB 自定义授权协议](LICENSE)**，所有使用均须事先获得作者越哥的明确书面授权。个人、学习、研究、评估、测试、非商业、商业、二次开发、部署、分发、SaaS、课程培训及案例传播等用途均适用此要求。署名、关注、下载或作者未回复不构成使用授权。
+本项目采用 **[REEL LAB 自定义授权协议](LICENSE)**：**非商业使用允许，商业使用须事先获得作者越哥的明确书面授权。**
 
-授权申请请联系全网同名 **“越哥聊AI”** 的官方账号，说明使用主体、用途、方式、版本、期限，以及是否涉及商业活动、修改、分发或公开展示；具体权限以作者的书面授权为准。
+- **非商业使用**：个人学习、非商业研究、技术评估、测试、无商业推广或变现目的的免费教学与分享，无须另行申请。可按协议复制、运行、修改、部署和分发，须保留协议、作者署名及权利声明，标注修改，并继续遵守商业使用限制。
+- **商业使用**：企业实际业务运营、带货内容生产、商业产品或 SaaS、客户交付、付费课程培训、营销推广及其他直接或间接获取商业利益的用途，须事先取得书面授权；免费提供但用于获客或商业推广的服务也属于商业使用。
+- **评估与测试**：组织在正式商用前、不参与实际业务生产且不向客户提供服务的纯技术评估和测试，可按非商业许可进行。
 
-**这是自定义授权协议，不是标准 Apache 2.0，也不是一般开源使用许可。** 公开 GitHub 仓库仍受平台条款中查看、Fork 等必要权限约束；这些权限不自动扩展为运行、部署或商业使用授权，详见 LICENSE 第三条及 [GitHub 许可说明](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
+商业授权申请请联系全网同名 **“越哥聊AI”** 的官方账号，说明使用主体、用途、方式、版本、期限，以及是否涉及修改、分发或公开展示；具体商业权限以作者的书面授权为准。署名、下载或作者未回复不构成商业授权。
+
+**这是自定义授权协议，不是标准 Apache 2.0，也不是不限制商业用途的开源许可。** 适用法律及 GitHub 平台条款保留的必要权利不受影响；平台内查看和 Fork 不等于商业授权。完整条件见 [LICENSE](LICENSE)。
 
 作者署名与版权声明见 [NOTICE](NOTICE)。第三方依赖与商品素材分别遵循各自的许可和权利声明，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 

@@ -4,9 +4,10 @@ Copyright (c) 2026 越哥。保留所有权利。
 https://github.com/bingyue/tiktok-growth-studio
 
 本项目采用根目录 LICENSE 所载的自定义授权协议。
-所有使用均须事先获得作者明确书面授权，适用法律强制保留的权利
-和托管平台服务条款已经授予的必要权利除外。
-本项目不采用标准 Apache 2.0，也未授予一般开源使用许可。
+非商业使用在遵守 LICENSE 的条件下允许，无须另行申请授权；
+商业使用须事先获得作者越哥的明确书面授权。
+适用法律强制保留的权利和托管平台条款授予的必要权利不受限制。
+本项目不采用标准 Apache 2.0，也不是不限制商业用途的开源许可。
 
 This notice is for attribution and does not modify the LICENSE.
 Third-party dependencies and referenced content remain subject to their
