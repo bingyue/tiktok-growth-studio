@@ -1,0 +1,62 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /account
+Disallow: /search
+
+User-agent: Googlebot
+Disallow: /admin
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /account
+Disallow: /search
+
+User-agent: Googlebot-image
+Disallow: /admin
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /account
+Disallow: /search
+
+User-agent: OAI-SearchBot
+Disallow: /admin
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /account
+Disallow: /search
+
+User-agent: Google-Extended
+Disallow:
+
+Sitemap: https://www.blueland.com/sitemap.xml
+
+# Google adsbot ignores robots.txt unless specifically named!
+User-agent: adsbot-google
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /carts
+Disallow: /orders
+
+User-agent: Pinterest
+Disallow: /admin
+Disallow: /cart
+Disallow: /carts
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /account
+Disallow: /search
+Crawl-delay: 1

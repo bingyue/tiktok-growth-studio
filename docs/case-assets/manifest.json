@@ -1,0 +1,303 @@
+{
+  "capturedAt": "2026-10-06T05:26:49.609Z",
+  "baseURL": "http://127.0.0.1:4348",
+  "mode": "live",
+  "theme": "TikTok black / white / cyan / pink",
+  "performanceSource": "synthetic",
+  "entries": [
+    {
+      "file": "screenshots/05-execution.png",
+      "title": "真实任务创建瞬间",
+      "caption": "真实链接任务已发起，截图记录创建时0%的状态；完成记录见05b。",
+      "capturedAt": "2026-10-06T05:21:43.899Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/03-workflow.png",
+      "title": "增长工作流与批次沿革",
+      "caption": "六个阶段均展示实际存档，首轮100条、模拟数据复盘、第二轮100条。",
+      "capturedAt": "2026-10-06T05:26:41.471Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": true,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1793
+    },
+    {
+      "file": "screenshots/05b-execution-result.png",
+      "title": "真实任务完成记录",
+      "caption": "任务状态、运行时间和任务编号来自后端存档。",
+      "capturedAt": "2026-10-06T05:26:41.570Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/01-home.png",
+      "title": "TikTok 内容作战室首页",
+      "caption": "真实商品研究，两轮内容闭环；首页当前展示第二轮100条与Top20。",
+      "capturedAt": "2026-10-06T05:26:41.669Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/04-product-input.png",
+      "title": "商品链接输入",
+      "caption": "示例为 Blueland 官方公开商品链接；可切换用户 JSON 或授权 Provider。",
+      "capturedAt": "2026-10-06T05:26:41.778Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/06-product-insights.png",
+      "title": "商品研究与评论证据",
+      "caption": "评论区分当前商品与关联单品，每条洞察可追溯来源。",
+      "capturedAt": "2026-10-06T05:26:41.944Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/02-configuration.png",
+      "title": "Provider 配置状态与 Skills",
+      "caption": "显示实际本地策略引擎和预留能力状态；此页不展示密钥。",
+      "capturedAt": "2026-10-06T05:26:42.071Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/07-angle-matrix.png",
+      "title": "13种内容角度 × 4种创作者人设",
+      "caption": "首轮100条内容在角度、场景和人设之间分配；单元格可打开脚本。",
+      "capturedAt": "2026-10-06T05:26:42.225Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": true,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1877
+    },
+    {
+      "file": "screenshots/07b-generation-options.png",
+      "title": "批量生成配置",
+      "caption": "数量、15/30/60秒、目标市场、语言、人设与本地/模型模式。",
+      "capturedAt": "2026-10-06T05:26:42.321Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/08-top20.png",
+      "title": "可拍摄性优先的 Top20",
+      "caption": "从首轮100条中按七维规则评分筛选优先试拍方案。",
+      "capturedAt": "2026-10-06T05:26:42.507Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/09-storyboard.png",
+      "title": "30秒脚本与逐镜头分镜",
+      "caption": "每镜头有时长、口播、画面动作、字幕、B-roll与产品展示方式。",
+      "capturedAt": "2026-10-06T05:26:42.602Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/10-voiceover.png",
+      "title": "完整口播、CTA 与音乐建议",
+      "caption": "可直接试读的英语脚本；上线前需结合实拍结果审稿。",
+      "capturedAt": "2026-10-06T05:26:42.683Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/11-shootability.png",
+      "title": "七维可拍摄性评分",
+      "caption": "评分用于安排试拍优先级，不能解读为爆款概率或GMV预测。",
+      "capturedAt": "2026-10-06T05:26:42.770Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/12-materials.png",
+      "title": "素材工厂与拍摄任务",
+      "caption": "相同镜头需求复用，列出素材缺口、负责人和使用状态。",
+      "capturedAt": "2026-10-06T05:26:42.938Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/13-reference-patterns.png",
+      "title": "参考视频结构拆解",
+      "caption": "实际品牌参考标注与模拟竞品结构分开标识；并非已验证爆款。",
+      "capturedAt": "2026-10-06T05:26:43.050Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/14-performance-import.png",
+      "title": "导入历史视频表现",
+      "caption": "30条模拟数据用于验证机制；正式运营改用自有视频数据并选择真实业务数据。",
+      "capturedAt": "2026-10-06T05:26:43.761Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/15-performance.png",
+      "title": "同口径数据复盘",
+      "caption": "截图明确标注模拟数据；展示播放、3秒留存、GMV、ROAS及Content DNA。",
+      "capturedAt": "2026-10-06T05:26:48.814Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/16-content-dna.png",
+      "title": "Content DNA 学习方向",
+      "caption": "高表现标签来自这组模拟样本中的观察关联，待下一轮验证。",
+      "capturedAt": "2026-10-06T05:26:48.904Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/17-round-two.png",
+      "title": "两轮产物与迭代依据",
+      "caption": "第二轮关联首轮批次与复盘，保留创作方向调整和探索。",
+      "capturedAt": "2026-10-06T05:26:49.019Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 1440,
+      "imageHeight": 1000
+    },
+    {
+      "file": "screenshots/18-mobile-home.png",
+      "title": "手机端首页",
+      "caption": "真实响应式界面，适合竖屏演示开场。",
+      "capturedAt": "2026-10-06T05:26:49.128Z",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 390,
+      "imageHeight": 844
+    },
+    {
+      "file": "screenshots/19-mobile-storyboard.png",
+      "title": "手机端逐镜头分镜",
+      "caption": "竖屏展示脚本执行细节，适合小红书和短视频近景。",
+      "capturedAt": "2026-10-06T05:26:49.270Z",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fullPage": false,
+      "source": "Real application screenshot; no mocked responses or compositing",
+      "imageWidth": 390,
+      "imageHeight": 844
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "桌面收纳架（教学商品）",
+  "brand": "Demo Studio",
+  "url": "https://example.com/products/desk-organizer",
+  "price": 24,
+  "currency": "USD",
+  "description": "用于教学的桌面收纳商品资料，请替换为自己确认过的事实。",
+  "category": "home organization",
+  "images": [],
+  "videos": [],
+  "sellingPoints": [
+    "分区放置桌面文具",
+    "可在桌面上直观看到取放过程"
+  ],
+  "specifications": {
+    "usage": "文具收纳"
+  },
+  "faq": [
+    {
+      "question": "尺寸是多少？",
+      "answer": "教学资料未提供，请向供应商确认后再写入。"
+    }
+  ],
+  "reviews": []
+}

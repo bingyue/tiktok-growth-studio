@@ -1,0 +1,7 @@
+import {mkdirSync,writeFileSync} from 'node:fs';
+import {resolve} from 'node:path';
+import {Store} from '../server/store';
+import {Engine,syntheticPerformance} from '../server/engine';
+import {scriptMarkdown} from '../server/export';
+const store=new Store(resolve(process.env.DATA_DIR||'data','studio.sqlite'));const engine=new Engine(store);
+try{const id=await engine.demo(process.argv.includes('--live'),(stage,n)=>console.log(`${n}% ${stage}`));const w=engine.workspace(id);mkdirSync('docs/demo-output',{recursive:true});for(const b of w.batches){const scripts=w.scripts.filter(s=>s.batchId===b.id);writeFileSync(`docs/demo-output/round-${b.round}.json`,JSON.stringify({batch:b,scripts},null,2));writeFileSync(`docs/demo-output/round-${b.round}-top20.md`,scripts.filter(s=>b.topIds.includes(s.id)).map(scriptMarkdown).join('\n---\n'));}writeFileSync('docs/demo-output/analysis.json',JSON.stringify(w.analyses,null,2));writeFileSync('docs/demo-output/history-synthetic.json',JSON.stringify(syntheticPerformance(w.scripts.filter(s=>s.batchId===w.batches[0].id),w.product!),null,2));writeFileSync('docs/demo-output/verification.json',JSON.stringify({product:id,source:w.product!.url,reviews:w.product!.reviews.length,exactReviews:w.product!.reviews.filter(r=>r.scope==='exact').length,batches:w.batches.map(b=>({round:b.round,count:b.count,top:b.topIds.length,diversity:b.diversity})),metricsSource:w.analyses[0].source,insights:w.analyses[0].insights.length},null,2));console.log('Demo completed',id)}finally{store.close()}

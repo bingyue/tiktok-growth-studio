@@ -1,0 +1,16 @@
+{
+  "round1": {
+    "student": 25,
+    "parent": 25,
+    "fitness": 25,
+    "reviewer": 25
+  },
+  "round2": {
+    "student": 16,
+    "parent": 50,
+    "fitness": 17,
+    "reviewer": 17
+  },
+  "source": "synthetic",
+  "note": "模拟信号验证配额变化，不是实际业绩预测。"
+}

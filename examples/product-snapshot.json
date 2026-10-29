@@ -1,0 +1,1573 @@
+{
+  "id": "6f40f190-ec4b-4f23-9525-59ecd018bb54",
+  "createdAt": "2026-10-06T03:33:59.464Z",
+  "updatedAt": "2026-10-06T03:33:59.464Z",
+  "name": "Clean Essentials Kit",
+  "brand": "Blueland",
+  "url": "https://www.blueland.com/products/the-clean-essentials",
+  "platform": "Shopify",
+  "price": 46,
+  "currency": "USD",
+  "description": "Simplify your cleaning routine with just the essentials—our four bestsellers in home cleaning kit. From dirty hands to dirty surfaces, keep your home clean and your family safe with 100% plastic-free tablets. Clean Ingredients: Microplastic-free formulas made with plant and mineral-based cleaning power so they’re safe for use around everyone in the family. Cradle to Cradle Certified™, Leaping Bunny (cruelty free), and EPA Safer Choice NEW Dye-Free Spray Cleaner Formula: We heard your feedback! Our spray cleaners are now formulated without dyes. Powerfully Effective: Tried, tested and proven to perform alongside major brands 25% Kit Savings: Get everything in one kit to save money and emissions",
+  "category": "cleaning",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_01.jpg?v=1769808426",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_02.jpg?v=1769808427",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_03.jpg?v=1769808428",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_04.gif?v=1769808432",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_06.gif?v=1771428442",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_07.jpg?v=1771428442",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_08.jpg?v=1784044362",
+    "https://cdn.shopify.com/s/files/1/0057/9158/0227/files/Carousel_DTC_Clean_Essentials_Final_2026_09.jpg?v=1771428442"
+  ],
+  "videos": [
+    "https://cdn.shopify.com/videos/c/vp/0a4f6f692eb74316950311a0fded9aa6/0a4f6f692eb74316950311a0fded9aa6.SD-480p-1.5Mbps-72689485.mp4"
+  ],
+  "specifications": {
+    "套装内容": "4个专用瓶 + 4片补充片"
+  },
+  "sellingPoints": [
+    "Four refillable bottles with four cleaning tablets",
+    "Add warm water, drop a tablet, let it dissolve",
+    "Foaming hand soap, multi-surface, bathroom, glass and mirror cleaning",
+    "Refill existing bottles instead of replacing the bottle"
+  ],
+  "faq": [
+    {
+      "question": "How do I prepare the cleaner?",
+      "answer": "Fill with warm water to the indicated line. Drop in a tablet, let it dissolve, and replace the nozzle."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "b0afefa8-510b-4d5f-8ebc-e0d39049314d",
+      "text": "I love this product! The smell is incredible and doesn’t leave behind any chemically fumes.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "33db6529-c8c4-438c-8f3d-938c980b89cf",
+      "text": "Non toxic and highly effective cleaning. Works just as well as my previous life of toxic chemicals!!!",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "761b65e8-7034-4457-972f-08f293c2f155",
+      "text": "Weirdo alert but the scent of this makes me want to clean!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "6bf536b6-01e8-4d35-afc5-bd54c3e17da3",
+      "text": "Cleaning products especially used in the bathroom usually make me nauseous, not these! So grateful this brand exists",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "932c455c-0245-407d-b8b9-7c1e425a482b",
+      "text": "Single use no more. Thank goodness for Blueland and their tabs.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "bce9ff59-c746-42df-8850-b489815ab598",
+      "text": "I can't leave a review right now ; not until I receive the products. I will say what I have used in the past, has been amazing.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "840510db-565e-4d96-b2f9-c32ae3ee2a73",
+      "text": "This simply is an excellent product.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "ed3194a0-2cd9-4852-9ef7-72a434313e96",
+      "text": "I love this product. I just today finished cleaning my entire kitchen with it and the results are great. Also, I have asthma and this product did not irritate me at all.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "01bc9d2c-d987-4957-b2e3-00e14ba9e5bf",
+      "text": "This is a very nice cleaner for lots of surfaces. And has a lemon scent.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "cf1aaf12-ad0e-42dc-b2d8-49e59c67c692",
+      "text": "Smells amazing!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b7a505bd-1ad1-4557-90ce-7302ceb2684f",
+      "text": "The bottles arw cute and the peoducts work well also. I have a sensetivity to one of your products but everything else is great!",
+      "rating": 5,
+      "productName": "Clean Essentials Kit",
+      "scope": "exact",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "01b30520-c84b-4e96-90ef-e2d903c830bb",
+      "text": "Great product! I’ve been using for 5+ years now. Love everything blue land. Would highly recommend!",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "344ff8c9-650a-4499-a48e-a03e9ffa9a47",
+      "text": "I like using this cleaner. Easy refill tablet and works well.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "5ea64fbb-ac8b-44ec-a666-ea8719d1e415",
+      "text": "This is by far my new favorite plastic free multi surface cleaner. The smell is not over powering and it gets the whole mess wiped off without having to go over the mess twice. Very satisfied with this purchase :)",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "41eb6a28-a0d3-4f04-9da4-538e8c539e73",
+      "text": "I really love the lemon scent. I’ve used it on lots of surfaces but ones that are greasy take multiple spray and wipes. Used it to clean my stove top (not baked on stuff, but just the routine little grease/oil spatter) and I had to spray it thoroughly and scrub/wipe off 4 times before it was clean. Not a deal breaker because I’d rather use this lower impact product that doesn’t irritate my airway, but it’s definitely more rewarding to use this on a bathroom counter or kitchen counter where you’re less likely to encounter oily substances. The lemon scent is truly lovely.",
+      "rating": 4,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "30bfb863-a5df-44ec-9529-cbdf994d23d8",
+      "text": "I’ve been happy with these bathroom cleaning tablets. They work well for everyday cleanup, and I like being able to reuse the same spray bottle. The refills take up very little space and are easy to keep on hand. A practical swap that cuts down on plastic waste!",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "fc9ef325-0e3a-4e06-8eb4-3065634ddd01",
+      "text": "I really like how simple these refills are…just add water, drop in a tablet, and reuse the bottle. The cleaner works well for everyday messes, and I appreciate not having to buy another plastic spray bottle each time. Convenient and easy to keep on hand!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "3c10d876-2b31-452f-a161-4005efb2fce0",
+      "text": "We recently bought a new home with marble countertops. The builder cautioned us about using strong products on them, luckily we are longtime Blueland users and know that the multi surface cleaner is safe for our new home.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "d9080368-18b9-46b6-a739-fe19dd1826b7",
+      "text": "I have enjoyed using all these cleaning products. They all smell great and it’s good to know they are clean for our environment and in my home.",
+      "rating": 5,
+      "productName": "Clean Essentials Kit",
+      "scope": "exact",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "8306ad60-624b-4943-8016-f57f4e8fd934",
+      "text": "Works great, love the minimal packaging",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "22fb95c0-417a-4d49-b335-54efe1111bc5",
+      "text": "been using these for years and we love them. economical, they don't harm the planet, and are safe with our young child. good for getting him involved in clean ups!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "61186f56-cd34-4ed7-a40f-a98549d06003",
+      "text": "How did i not know about this earlier?! Blueland tabs are my absolute favorite at the moment. Tried detergent tabs, dishwasher tabs and surface cleaning tabs and couldn’t be happier with my purchase! Smells incredible, clean ingredients and perfect for non toxic households",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "2c188f9d-2770-4ec8-bda2-b7fa87f9c4bb",
+      "text": "This cleaner is easy to prepare (dissolves easily), cleans thoroughly without any sticky residue, and leaves a lovely light fresh scent lingering in the room. The spray bottle is wonderful - a nice fine mist that makes distributing the cleaner evenly a breeze. Love it and will order again!",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "5b3efdab-2c0a-4c28-b086-9e2d2b3ceb05",
+      "text": "Love this stuff have been using it for a long time.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "ec5995b4-bcc0-43a0-a558-b83ca6fc7574",
+      "text": "The Mirror Cleaner is amazing at making Sparkling clean Mirrors!",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "75131e2b-4181-4d2c-83fd-c1d7b8ef3af3",
+      "text": "Not only does this product clean glass very well, it clearly demonstrates how to reduce our plastic waste!",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b9fd93b3-a683-478c-b592-7be7dbdb9918",
+      "text": "Smells so lovely and works really well. I buy this again and again.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "21bb3145-e9a0-4ebc-ac5d-2cd3cb9a71b2",
+      "text": "Couldn’t be happier! I would recommend this product due to its cleaning power and it’s all natural!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "266952d0-0f57-4e52-8797-ca35f76fffac",
+      "text": "Love it",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "bcc0984f-e6f9-47e7-a861-d1b8d0cf0a72",
+      "text": "Who needs plastic? This tablet works so well that I will never buy Fantastick again. Easy to refill and reuse over and over! Nice scent",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "37c9308c-fb6c-4d09-83d9-172ce2426618",
+      "text": "These are so easy to use and smell really nice! I do feel like they make surfaces clean. There's no sticky reside left behind, and it looks and feels fresh when I'm done.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b7091845-b9b2-40d7-891b-ba77e73ab4c9",
+      "text": "I am reducing plastics in my home and Blueland is the answer. My dishwasher and laundry products are terrific and they are in non-plastic, reusable containers. The spray bottle are a one-time purchase and are easy to refill. Love Blueland! It's my new favorite housewarming gift too!",
+      "rating": 5,
+      "productName": "Clean Essentials Kit",
+      "scope": "exact",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "1a9d12a7-5c58-4567-9fab-2afaa1f00bab",
+      "text": "The spray bottle is very easy to use. The spray is very contained and not every where.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "0658ccf5-6bd1-4cbc-997d-59eecd40ff65",
+      "text": "Its cleaned well.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "5b8e9fb8-fc7e-4e39-a1c1-7ad58fe9d802",
+      "text": "Refills the glass cleaner - what more can one say.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "827f5eb3-dc6b-4320-a6af-ba0e05ac042b",
+      "text": "These take almost no space in the cabinet and I always have a refill ready on a deep cleaning day.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "4944c539-b22d-4cbc-a511-c9d2fac5ec12",
+      "text": "Works very well and smells nice.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "756d0afc-12cf-4dfa-93ec-808990760609",
+      "text": "They work well!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b9217b4c-ee3d-4267-9070-e3e97069a3cb",
+      "text": "Absolutely love the surface cleaner! I use this daily on alot of things. I do wish there was another good scent.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "32d7bad3-fec0-4604-a62f-26d1b86d746e",
+      "text": "I like it better than any other products I’ve used before.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "32d2a129-7486-4b2e-8545-5d108f46bdb4",
+      "text": "I LOVE this stuff. Not only is it a clean product it actually works! Here is a tip for cleaning mirror’s….turn off the lights in the bathroom!! Try it!!",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "428a60b4-6aac-49e5-b5bd-ad0c56c8714b",
+      "text": "cleans amazing, works on every surface & smells great!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "3477b38e-11e8-4372-8d7a-a9d278cb9410",
+      "text": "So easy drop it, give a stir and your good to go! THe best scent ever! Love the packaging, I support you BLUE LAND all the way!",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "48d47018-2942-459b-bc52-6292f91db106",
+      "text": "Multi surfacce tablets work great and smell strong. I feel that Ive found my home in Blueland after years of using plastic free products that don't sud or demonstrate toughness on grime. I left earth breeze for these.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "088020b8-c47f-4695-8993-5b4d970a1f68",
+      "text": "The bathroom cleaner tablets work great. I feel that Ive found my home in Blueland after years of using plastic free products that don't sud or demonstrate toughness on grime.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "042eae53-8ac1-47d3-9a96-7d2d35dce279",
+      "text": "I’m so happy I invested in this starter kit. Hand wash bottles glass and appealing. All the other bottles are very sturdy and large. I’m very happy with all the products I ordered not included in stater kit. I made the right choice enrolling in the automatic delivery service so I won’t run out and save money. Knowing all your products are organic I have no concerns cross contamination with harsh/ toxic products with food preparation. Thank you for caring for our planet",
+      "rating": 5,
+      "productName": "Clean Essentials Kit",
+      "scope": "exact",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b8b188ed-cceb-4bc0-945e-40ff108b6b7a",
+      "text": "Love it",
+      "rating": 5,
+      "productName": "Clean Essentials Kit",
+      "scope": "exact",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "014836df-29c8-42d3-ba86-64dc84e7fe26",
+      "text": "I have been using this for a while, and I love the actual product. Your Bottle and sprayer not so much, I usually end up using a sprayer from another product.",
+      "rating": 4,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "874403db-4fee-4f60-958c-a7136071fe7f",
+      "text": "Smell is amazing and really cleans too.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "1fea4862-cd64-44c1-b61e-f1316cc63e01",
+      "text": "I've been using the multi-surface cleaner for about 2-3 years now (recently came back to Blueland and had to re-stock) and I genuinely love using this to clean the kitchen for example; especially after cooking! It wipes down grease so easily.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b94d0840-52fd-4a60-a0d6-d126318f5c22",
+      "text": "This cleaner tab dissolves well in water, smells good, and cleans well. I feel better knowing it's clean ingredients.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "99b38a2b-e929-4fa5-9234-debd6e657e7f",
+      "text": "I've had the multi-surface cleaner & spray bottle for a couple of years now and I love it! It is so nice to be able to do an easy refill. One improvement of the product would be to reshape the tablets a bit so they are easier to fit through the bottle neck.",
+      "rating": 4,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "0f337476-b260-460c-9f67-5cc5c8a0deea",
+      "text": "Great product for getting at soapscum. Have definitely used it in the kitchen on appliances that get greasy (stovetop) or crusty (dishwasher).",
+      "rating": 4,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "9eae1a3e-f03c-4e03-8e6a-96afa0b4de11",
+      "text": "I mixed up the concentrate and used it on our bathroom mirror. Cleaned up just like the commercial brands without the chemical smell.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "c144a98d-5a6a-4fd5-abf3-555892efb7f2",
+      "text": "I love it. No streaks and works so well on granite.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "cd1a5e43-9428-4a19-a23c-93d005e55652",
+      "text": "I love the ease of just grabbing the spray bottle and not shuffling through all the plastic chemical cleaners taking up space under my sink,",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "9a0218a1-25ae-4f61-9a15-2246311c6043",
+      "text": "Getting Mom to try them.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "956cdbcf-30f7-401d-b411-17c62456ffbc",
+      "text": "Works well. I keep using it!",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "5ec7b390-1295-4207-a315-357f74e05b1a",
+      "text": "I really wanted to love this. The whole idea is great ,you buy the reusable bottle once, then just drop in a tablet and add water, so you're not throwing out plastic spray bottles constantly. Setup was easy and the bottle feels sturdy and looks nice on the counter. The scent is light and not overpowering, which I appreciated. Where it fell a little short for me was cleaning power. On everyday dust and light messes it does totally fine, but on stuck on grease in the kitchen or soap scum in the bathroom I had to spray a few times and really scrub to get the same result I'd get from my old cleaner. The tablet also took longer to fully dissolve than I expected.",
+      "rating": 3,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "52452176-13ca-45d5-bdb9-a5847be1d398",
+      "text": "We've used these products for years; there's a reason we keep coming back to them. They work and they help us help the planet just a little bit more.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "6961f978-4c12-4fa7-a78e-318c58204e00",
+      "text": "We have been using Blueland soap for a few years. We love the ease of making it. It dissolves very quickly and we don’t have to buy liquid soap in plastic bottles anymore. We highly recommended this product!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "ab7063ee-91f6-4096-8999-b67c5212a275",
+      "text": "It's worked great for us! Counters smell fresh and cleans just as well as other cleaners we've used, without all the plastic and toxic chemicals.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "fa7614f5-b9b1-4ba5-bd56-9c12264ff18e",
+      "text": "Love the scent of this cleaner!!!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "384e2263-685e-48a9-8831-ff239e00ac3d",
+      "text": "I continue to be impressed with the quality and efficiency of Blueland's products. The Blueland glass and mirror cleaner is one of the better cleaners I've found for exactly those jobs! I also take great comfort in knowing my purchase and usage of this product is making a positive impact by not contributing to the exorbitant amount of plastic waste in my area - and beyond.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "015368b5-8040-4397-9fce-94a890a443c7",
+      "text": "I love this glass & mirror cleaner! The tablet is so easy and convenient to use when I just put it in the reusable bottle and fill it with water. I'm pleased with how shiny my glass and mirrors become! Thank you, Linda",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "cdd0519e-73ee-4514-b881-290c7d82c4f3",
+      "text": "I have been using these for a couple of years now, and the cleaner works well for all kinds of clean-up in my kitchen and bathrooms. The fragrance is just right. I just use one spray bottle and refill it over and over. No need for multiple spray bottles. These work well for all surfaces including mirrors.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "abf2864f-807d-4fc8-aacf-88f9ad9ce674",
+      "text": "Love",
+      "rating": 5,
+      "productName": "Clean Essentials Kit",
+      "scope": "exact",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "f3a611c5-fd31-41b7-aad8-44eef83fa112",
+      "text": "I wanted to try this because I've ruined so many shirts with bleach when I clean my counters. I was not confident than other cleaners would be as effective, but I've been pleasantly surprised with this product so far.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "0958988b-dbee-44ae-80cb-0ec3540eeb1a",
+      "text": "I am loving the smell and minimal ingredients in your products. And lugging around all the plastics.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "3d9e1867-12f5-463c-9cb6-2aebe1e36bd0",
+      "text": "Great smell and this stuff really does take off hard grime. I used it around my tiled bathroom counters and it took away the stains/water build up within a few scrubs. The smell is also easy on the nose.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b70e7460-fc10-4e26-83bb-663936bc2f59",
+      "text": "I used this cleaner on my granite countertops. It cleans very well and l like the scent. I have already bought refills.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "c0ff93fe-bca2-4567-a3c3-4ac50e4d5c92",
+      "text": "Good for routine",
+      "rating": 4,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "b2f0f362-64d6-4d10-85ec-2f8a29bd16f9",
+      "text": "Love the is product. Smells wonderful. Works great",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "2d56981d-eeec-496a-a4f0-83db9029694f",
+      "text": "Love the smell. Works great",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "9ab3a19a-e824-4c1d-9131-938dd4828a5d",
+      "text": "Works very well",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "3125a137-35e2-4f3e-b3f9-15a9732ce63a",
+      "text": "I enjoy using these for my bathrooms. I bought my own glass jar, pop it in and then fill it with water. No plastic involved whatsoever!",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "e70e708b-3889-4330-80dd-7a4ceabf018e",
+      "text": "Works quite well and the fragrance is nice. Sometimes can struggle with dealing with oil or grease",
+      "rating": 4,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "5a140a98-f559-4e27-bb4d-d98a4c751f62",
+      "text": "Wonderful product. Works great!",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "3a799aa8-2008-408e-a7b8-9b10e2afc361",
+      "text": "works great and smells nice! i’ve never had it struggle with any job i’ve needed! love the simple packaging and tiny storage space needed.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "9d9eb85c-ff89-4f36-9e25-b4c786795fc0",
+      "text": "I use this on my granite countertops and it leaves a shine and a peace of mind! I'll never go back to those harsh plastic commercial brands that fill an entire isle as the store.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "4f60676a-02da-4f0a-a4aa-9a95318f512b",
+      "text": "does the job well, pleasant scent",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "0be81e0b-6c6f-41b2-9e3f-e3040ce0f130",
+      "text": "Been using Blueland products for years now, which has likely saved hundreds of plastic bottles. Recently one of their old, now redesigned reusable spray bottle broke (after several years of use) and the company sent me a replacement for free. All that excellence aside, the products smell nice and are safer for use around family and pets than most commercial widely available products.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "0e6e5056-c2f1-420e-a7ec-7fcb568ebd9e",
+      "text": "All of the scents that blueland uses in their products are pleasant and subtle. As someone who is sensitive to smells, I've been happy with all the products I've tried so far",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "d724fca9-8eca-4801-9822-6a5c2e975665",
+      "text": "My go to for glass/mirror cleaner.",
+      "rating": 5,
+      "productName": "Glass + Mirror Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "233ea6c1-1db7-4c88-8f1c-6ad30c25fd70",
+      "text": "The bathroom cleaner does a good job at removing all the gunk in my sink.",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "72efa204-445a-4d34-b050-f32007edd7da",
+      "text": "This is my go to cleaner.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "61777af2-ddc3-4cf7-a92b-fa6478b57be2",
+      "text": "I have raised a case two weeks ago to advise after nearly a month I had not received my order yet and I’ve only had messages saying y they were looking into it but no resolution and now I’m being asked to review a product I never received. It’s like the left hand not talking to the right hand. Really this needs to be sorted asap I’m not impressed",
+      "rating": 1,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "c6aa270f-50c9-4756-83eb-2eec579a1aa3",
+      "text": "I absolutely love your products. My boyfriend has the glass and bathroom cleaners which I stole from him (I clean homes). I ordered the kitchen cleaner and I just love the products. I am extremely sensitive to smells and they are light enough that is doesn’t bother me. The glass cleaner leaves no streaks which I’m very picky about and I love that fact that it’s not toxic because I breath in all the chemicals I clean with.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "1b41f5a1-cf10-4ace-8214-052ba4468df5",
+      "text": "I love the spray however I’ve now had 2 nozzles break on me which is very frustrating",
+      "rating": 4,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "e7014f8a-46d1-435d-8d22-09d60a6e71a6",
+      "text": "A mild solution and it’s not a glass bottle.",
+      "rating": 2,
+      "productName": "Bathroom Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "016c7af8-7232-41b3-9e6e-cc7e81e5efb7",
+      "text": "Been using it, it’s great",
+      "rating": 5,
+      "productName": "Bathroom Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "31a6ab2f-8ba7-465a-9862-59f850c20eab",
+      "text": "Works wonderfully!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "0b83fcaa-4d79-4709-9baa-e3721bf35afc",
+      "text": "I wrote a more thorough review of Multi surface cleaner tablets, which a great. More needs to be said about the bottles! These bottles look like someone put actual thought in function and aesthetics into designing them. They're really nice looking, so much so that they look like part of the kitchen decor.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "f0350eaf-ea87-4f5e-9d85-2d6a51aec245",
+      "text": "I have been using the dishwasher tablets for aver a year and have been 100% satisfied so I tried the Multi-Surface Cleaner tablets. So far, I am also 100% satisfied. The cleaning power is great, I love the scent, and the bottles are actually very good looking. So much so, that they are almost decorative and look good if you leave them out on the counter. I absolutely recommend this product. The tablets could a little bit slimmer so they could fit more easily through the bottle's neck. Overall, a great product, cost and quality-wise.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "eb8cea3f-82b8-4aeb-a108-dce639fa713d",
+      "text": "Does a good job on the bathroom counter tops and all surfaces for that matter. Like the scent. Not really strong enough to get the shower grime build up.",
+      "rating": 4,
+      "productName": "Bathroom Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "7c2aa342-4c5a-4cee-a111-7e00c3597785",
+      "text": "I have used this on many surfaces and it does a great job!",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "083faa96-364e-4317-a9e6-8469472f4406",
+      "text": "We’ve been using blue land detergent for a few years now and now we’re finally doing the full switch with blue lands, hand soap. Love the products. Love the mission thanks.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "2fa63cc2-1d43-451b-b167-39052783b83a",
+      "text": "These general surface cleaner tablets are fantastic. It’s a gentle, but effective cleaner that I use for 99% of my cleaning around the house. And I can’t even out a price on how much it means to me to not have to buy and throw away a plastic spray bottle every time I run out of cleaner. Highly recommend.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Tablet Refills",
+      "scope": "related",
+      "incentivized": false,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "7b049620-a5b2-485e-8256-ba908a311d6a",
+      "text": "This a great smelling cleaner. I clean my counters, tables, refrigerator and stove and works really well on greasy surfaces. Glad I decided to try it.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    },
+    {
+      "id": "4a5d5c49-d798-42a4-b071-fa93a7f679fd",
+      "text": "This Multi-Surface Cleaner works quickly while leaving no streaks. It has a mild scent that doesn't linger, I think because fragrance chemical is nontoxic. I'm fine with a scent that doesn't persist. This stuff works surprisingly well on our glass cooktop.",
+      "rating": 5,
+      "productName": "Multi-Surface Cleaner Starter Set",
+      "scope": "related",
+      "incentivized": true,
+      "source": {
+        "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+        "kind": "public",
+        "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+        "capturedAt": "2026-10-06T03:34:01.294Z",
+        "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "3ed5ab9f-bdd4-4f68-b9f3-45ac93def66f",
+      "kind": "public",
+      "url": "https://www.blueland.com/products/the-clean-essentials",
+      "capturedAt": "2026-10-06T03:33:57.483Z",
+      "note": "公开页面 Product JSON-LD"
+    },
+    {
+      "id": "085e8fcd-1e6e-4072-a0db-59f0db068cf2",
+      "kind": "public",
+      "url": "https://shop.blueland.com/products/the-clean-essentials.js",
+      "capturedAt": "2026-10-06T03:33:59.463Z",
+      "note": "Shopify 公开商品 JSON；价格以源站币种为准"
+    },
+    {
+      "id": "d91eb60c-6f8a-4db2-9abb-14bd930082b3",
+      "kind": "public",
+      "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+      "capturedAt": "2026-10-06T03:34:01.294Z",
+      "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+    }
+  ],
+  "aggregateRating": {
+    "rating": 4.7,
+    "count": 26037
+  },
+  "gaps": [
+    "评论由店铺分组：关联商品评价不可视作此 SKU 的实证"
+  ]
+}

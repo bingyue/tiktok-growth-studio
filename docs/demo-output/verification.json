@@ -1,0 +1,32 @@
+{
+  "product": "f695101b-275b-4a75-b893-d02b10550c0f",
+  "source": "https://www.blueland.com/products/the-clean-essentials",
+  "reviews": 100,
+  "exactReviews": 6,
+  "batches": [
+    {
+      "round": 1,
+      "count": 100,
+      "top": 20,
+      "diversity": {
+        "unique": 100,
+        "angles": 13,
+        "personas": 4,
+        "scenarios": 12
+      }
+    },
+    {
+      "round": 2,
+      "count": 100,
+      "top": 20,
+      "diversity": {
+        "unique": 100,
+        "angles": 13,
+        "personas": 4,
+        "scenarios": 12
+      }
+    }
+  ],
+  "metricsSource": "synthetic",
+  "insights": 26
+}

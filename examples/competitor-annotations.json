@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Blueland 品牌公开参考片 · 实际画面拆解",
+    "url": "https://cdn.shopify.com/videos/c/vp/0a4f6f692eb74316950311a0fded9aa6/0a4f6f692eb74316950311a0fded9aa6.SD-480p-1.5Mbps-72689485.mp4",
+    "duration": 22.334,
+    "sourceKind": "public",
+    "sourceNote": "来源为商品页公开视频。2026-10-06 用 ffprobe 检查为22.333秒无音轨视频，抽帧人工观察并用场景变化估算镜头边界。字幕为中文概述；情绪为编辑解读。未取得播放、转化与评论数据，不能称为已验证爆款。此片为本商品品牌参考，而非独立竞品。",
+    "modality": "annotated",
+    "segments": [
+      {
+        "start": 0,
+        "end": 1.867,
+        "visual": "家庭厨房中，成人站在水槽旁，产品瓶子位于台面",
+        "subtitle": "开场生活场景，未观察到文字",
+        "transcript": "",
+        "emotion": "日常（编辑解读）",
+        "sellingPoint": "生活使用场景"
+      },
+      {
+        "start": 1.867,
+        "end": 4.4,
+        "visual": "蓝色背景下，手掌展示一片清洁补充片",
+        "subtitle": "品牌强调无塑料补充片",
+        "transcript": "",
+        "emotion": "好奇（编辑解读）",
+        "sellingPoint": "补充片形式"
+      },
+      {
+        "start": 4.4,
+        "end": 7.8,
+        "visual": "厨房台面上，成人喷洒并擦拭，瓶身可见",
+        "subtitle": "品牌强调清洁污渍能力",
+        "transcript": "",
+        "emotion": "验证（编辑解读）",
+        "sellingPoint": "清洁动作"
+      },
+      {
+        "start": 7.8,
+        "end": 10.533,
+        "visual": "成人与儿童站在洗手台旁洗手",
+        "subtitle": "品牌提出家庭使用主张，未独立验证",
+        "transcript": "",
+        "emotion": "亲近（编辑解读）",
+        "sellingPoint": "家庭场景"
+      },
+      {
+        "start": 10.533,
+        "end": 13.6,
+        "visual": "成人和儿童在桌边看物品，泡沫洗手液瓶置于前景",
+        "subtitle": "品牌提出配方不含微塑料的主张",
+        "transcript": "",
+        "emotion": "安心诉求（编辑解读）",
+        "sellingPoint": "配方主张"
+      },
+      {
+        "start": 13.6,
+        "end": 16.2,
+        "visual": "成人在厨房喷洒并擦拭台面",
+        "subtitle": "品牌提出温和配方主张",
+        "transcript": "",
+        "emotion": "轻松（编辑解读）",
+        "sellingPoint": "配方主张"
+      },
+      {
+        "start": 16.2,
+        "end": 19.667,
+        "visual": "户外家庭活动，底部出现认证标志，切换两个画面",
+        "subtitle": "品牌展示认证与环境主张",
+        "transcript": "",
+        "emotion": "家庭归属（编辑解读）",
+        "sellingPoint": "认证展示"
+      },
+      {
+        "start": 19.667,
+        "end": 22.334,
+        "visual": "户外背景上出现Blueland品牌文字与产品定位",
+        "subtitle": "品牌名称与定位收尾；没有观察到直接购买按钮",
+        "transcript": "",
+        "emotion": "品牌记忆（编辑解读）",
+        "sellingPoint": "品牌定位"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "title": "演示标注 · 从问题切入的清洁短视频",
+    "url": "https://example.com/demo/cleaning-problem",
+    "duration": 24,
+    "sourceKind": "synthetic",
+    "sourceNote": "人工编写的演示镜头和评论，用于验证拆解流程；不是抓取到的真实竞品或爆款，播放量未知。",
+    "modality": "annotated",
+    "segments": [
+      {
+        "start": 0,
+        "end": 3,
+        "visual": "近景呈现台面上的真实问题",
+        "subtitle": "Why is this still here?",
+        "transcript": "Why is this still here?",
+        "emotion": "疑惑",
+        "sellingPoint": ""
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "visual": "展示商品和正确使用方法",
+        "subtitle": "Start with the setup",
+        "transcript": "Let's see the setup first.",
+        "emotion": "好奇",
+        "sellingPoint": "易操作"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "visual": "固定机位演示并检查结果",
+        "subtitle": "Watch the full step",
+        "transcript": "Keep the camera here and watch what happens.",
+        "emotion": "验证",
+        "sellingPoint": "真实过程"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "visual": "实物和规格同框",
+        "subtitle": "Check the details",
+        "transcript": "Check the product details before choosing.",
+        "emotion": "理性",
+        "sellingPoint": "适用范围"
+      }
+    ],
+    "comments": [
+      "How do I refill this?",
+      "Is this suitable for my countertop?"
+    ]
+  },
+  {
+    "title": "演示标注 · 理性开箱与价值比较",
+    "url": "https://example.com/demo/value-unboxing",
+    "duration": 30,
+    "sourceKind": "synthetic",
+    "sourceNote": "人工编写的演示参考，不代表真实竞品表现。只复用清点—演示—核对的结构，不复制文案或素材。",
+    "modality": "annotated",
+    "segments": [
+      {
+        "start": 0,
+        "end": 3,
+        "visual": "俯拍未拆封包装",
+        "subtitle": "What is actually included?",
+        "transcript": "What is actually included?",
+        "emotion": "好奇",
+        "sellingPoint": ""
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "visual": "所有配件依次摆出",
+        "subtitle": "The full set",
+        "transcript": "Every item goes on the table.",
+        "emotion": "了解",
+        "sellingPoint": "组成"
+      },
+      {
+        "start": 11,
+        "end": 22,
+        "visual": "选择一个部件完整演示",
+        "subtitle": "One real task",
+        "transcript": "Let's use one item for a real task.",
+        "emotion": "验证",
+        "sellingPoint": "用途"
+      },
+      {
+        "start": 22,
+        "end": 30,
+        "visual": "对照当前价格与规格",
+        "subtitle": "Compare before buying",
+        "transcript": "Compare the current price and details for your needs.",
+        "emotion": "理性",
+        "sellingPoint": "价值"
+      }
+    ],
+    "comments": [
+      "Are refills sold separately?"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "title": "教学结构：桌面收纳展示",
+  "url": "https://example.com/reference/teaching-only",
+  "duration": 15,
+  "views": null,
+  "sourceKind": "synthetic",
+  "sourceNote": "人工编写的教学镜头标注，不对应真实竞品，不包含真实业绩。",
+  "modality": "annotated",
+  "segments": [
+    {
+      "start": 0,
+      "end": 3,
+      "visual": "俯拍散落的文具，举起收纳架",
+      "subtitle": "东西总找不到？",
+      "transcript": "看看这张桌子。",
+      "emotion": "困扰",
+      "sellingPoint": ""
+    },
+    {
+      "start": 3,
+      "end": 11,
+      "visual": "连续拍摄把文具放进不同分区",
+      "subtitle": "按使用顺序放置",
+      "transcript": "先分好类，再放进对应的位置。",
+      "emotion": "专注",
+      "sellingPoint": "分区取放"
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "visual": "展示整理后的桌面，手拿取一支笔",
+      "subtitle": "先确认尺寸是否适合你的桌面",
+      "transcript": "看看尺寸，再决定是否适合你的桌面。",
+      "emotion": "平静",
+      "sellingPoint": "可直观看到取放过程"
+    }
+  ],
+  "comments": []
+}

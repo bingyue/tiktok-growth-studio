@@ -1,0 +1,163 @@
+{
+  "capturedAt": "2026-10-06T05:26:49.608Z",
+  "mode": "live",
+  "productId": "e108adaa-4056-4965-b2e7-7a2d9043a628",
+  "product": "Clean Essentials Kit",
+  "url": "https://www.blueland.com/products/the-clean-essentials",
+  "price": 46,
+  "currency": "USD",
+  "reviewCount": 100,
+  "exactReviews": 6,
+  "sourceEvidence": [
+    {
+      "id": "99fb0fe8-2c46-4913-b610-0743f1db1af9",
+      "kind": "public",
+      "url": "https://www.blueland.com/products/the-clean-essentials",
+      "capturedAt": "2026-10-06T05:21:45.563Z",
+      "note": "公开页面 Product JSON-LD"
+    },
+    {
+      "id": "e0a14286-e528-4316-a745-4579f5757717",
+      "kind": "public",
+      "url": "https://shop.blueland.com/products/the-clean-essentials.js",
+      "capturedAt": "2026-10-06T05:21:47.386Z",
+      "note": "Shopify 公开商品 JSON；价格以源站币种为准"
+    },
+    {
+      "id": "fa9f414d-7675-4eab-80bc-8273f80edaca",
+      "kind": "public",
+      "url": "https://api.okendo.io/v1/stores/e6d9f49e-7e6c-4065-9eab-110a3e81ece4/products/shopify-4669945937975/reviews?limit=100",
+      "capturedAt": "2026-10-06T05:21:48.176Z",
+      "note": "店铺公开评论：包含关联 SKU，已逐条区分 exact / related"
+    }
+  ],
+  "job": {
+    "id": "7e04d7ca-f398-412c-8dca-5a57002fdcd9",
+    "createdAt": "2026-10-06T05:21:43.798Z",
+    "updatedAt": "2026-10-06T05:21:48.533Z",
+    "productId": "",
+    "kind": "demo",
+    "status": "completed",
+    "progress": 100,
+    "stage": "完成",
+    "error": "",
+    "resultId": "e108adaa-4056-4965-b2e7-7a2d9043a628"
+  },
+  "batches": [
+    {
+      "id": "53306aaa-b1fd-4f67-8c52-a3e115db29af",
+      "createdAt": "2026-10-06T05:21:48.210Z",
+      "updatedAt": "2026-10-06T05:21:48.358Z",
+      "productId": "e108adaa-4056-4965-b2e7-7a2d9043a628",
+      "round": 1,
+      "count": 100,
+      "market": "US",
+      "language": "en",
+      "duration": 30,
+      "mode": "local",
+      "topIds": [
+        "67102a40-61dd-4277-a4a3-de3e361aaaff",
+        "b92aed22-781d-4d4a-9167-965721f23fe0",
+        "504191e4-3295-4858-bf74-faf26ed0c815",
+        "c25f06d3-dbc6-4a0f-81a5-ba8f1ffdb188",
+        "04465ea0-ebdb-41ad-9130-7174bd9621c1",
+        "f678dbe4-b925-4152-ab16-88ce58b9c0e9",
+        "5724148a-3da5-451f-beb9-769a0f589e5e",
+        "5a2c5ead-9497-4d35-8281-ebc7e4804226",
+        "478d0e27-5742-4261-b3c8-1351f56bdf0b",
+        "2d7cd4ce-6134-4e01-8bc1-18b1db185d1e",
+        "8084851f-0977-40ee-bddd-37126b390238",
+        "813a74a6-c2a0-4d3c-92b7-1e1151173d79",
+        "80440b47-efc0-475d-bd18-23181e0533be",
+        "a7f774ef-a76b-4d09-9c26-8b74a4740a1a",
+        "afd22996-9583-4567-9384-560f9c845e33",
+        "a7dad0d1-5237-430c-aceb-23d6f37f7782",
+        "7641778b-943d-4485-bc63-0c2edb6f4dd7",
+        "8c677bb4-b46b-41c7-80b4-03798f986641",
+        "e4aaaea1-48ff-4b8e-ba52-50de5aa1c860",
+        "bfd7db4d-9790-410c-b80e-a9e665fc76c9"
+      ],
+      "strategy": "平衡13类角度、4类人设与12个具体场景；每条都有实际任务",
+      "diversity": {
+        "unique": 100,
+        "angles": 13,
+        "personas": 4,
+        "scenarios": 12
+      }
+    },
+    {
+      "id": "b302257a-80d4-461e-8968-4a6ee33ef496",
+      "createdAt": "2026-10-06T05:21:48.417Z",
+      "updatedAt": "2026-10-06T05:21:48.523Z",
+      "productId": "e108adaa-4056-4965-b2e7-7a2d9043a628",
+      "round": 2,
+      "count": 100,
+      "market": "US",
+      "language": "en",
+      "duration": 30,
+      "mode": "local",
+      "topIds": [
+        "70177b7b-d1ad-406f-b949-40794206ee56",
+        "52a51732-b14e-4d85-966c-0900cfebb70c",
+        "efe30f34-0327-4361-9700-536f25cd2124",
+        "bcb62cb4-66dc-4d08-9eb3-15e2f7a83e6c",
+        "a14f61dd-b34b-42b8-9399-4c5aaf9b9831",
+        "d8d1eb1a-e2fc-4b98-a6b2-a941c3a76795",
+        "c0345571-930c-41ee-9710-aade703556ca",
+        "1ce509a4-5344-4955-beb7-d16bb762fa86",
+        "97812bb1-2034-4ef6-a73a-794457157e98",
+        "bc07176b-b75f-404b-8f47-b18307673989",
+        "76c36442-dd58-46a7-89c4-d3baab565ce4",
+        "ab9d2536-4cc7-4e92-9fdc-45eebd05359a",
+        "fcf81b47-5267-4110-b248-f0b900398d60",
+        "409cd661-7c3e-48fe-8917-b7459f6b8cdb",
+        "efcd53f5-631a-43b7-8c86-0027f0bc65c0",
+        "dd2b3931-74b4-450d-81c4-1c8a9c357736",
+        "61ab648a-cf8d-4354-b63d-64ec693b7ebe",
+        "71b9a922-1317-4ed5-b879-25bcb8230020",
+        "c45a0c3f-5c50-4186-81be-b5424ef07dcd",
+        "f6906eab-f074-4b1b-9e97-681e09a677e0"
+      ],
+      "analysisId": "b92e91b3-8bf4-4a73-9a02-00de069a0413",
+      "basedOnBatchId": "53306aaa-b1fd-4f67-8c52-a3e115db29af",
+      "strategy": "70% 参考已观察到的高表现标签，30% 探索新组合；结果需要再验证",
+      "diversity": {
+        "unique": 100,
+        "angles": 13,
+        "personas": 4,
+        "scenarios": 12
+      }
+    }
+  ],
+  "videoCount": 30,
+  "metricsSource": "synthetic",
+  "insights": 26,
+  "personaDistribution": [
+    {
+      "round": 1,
+      "counts": {
+        "student": 25,
+        "parent": 25,
+        "fitness": 25,
+        "reviewer": 25
+      }
+    },
+    {
+      "round": 2,
+      "counts": {
+        "student": 17,
+        "parent": 48,
+        "fitness": 17,
+        "reviewer": 18
+      }
+    }
+  ],
+  "checks": {
+    "scripts": 200,
+    "uniqueFingerprints": 200,
+    "uniqueVoiceovers": 200,
+    "storyboardSeconds": true,
+    "idempotentVideoCount": true,
+    "browserErrors": []
+  }
+}

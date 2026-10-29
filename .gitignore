@@ -1,0 +1,27 @@
+# Dependencies and builds
+node_modules/
+dist/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local databases and generated runtime files
+data/
+data-*/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+playwright-report/
+test-results/
+.DS_Store
+
+# Raw research responses may contain reviewer identities.
+# Keep local evidence; commit only curated examples and application exports.
+docs/evidence/*.html
+docs/evidence/public-reviews-response.json
+docs/evidence/product-reviews.json

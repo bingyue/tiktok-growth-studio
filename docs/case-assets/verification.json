@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-06T05:28:34.325Z",
+  "screenshots": 21,
+  "localLinks": "all present",
+  "teachingExamples": "product, reference annotation and six synthetic metrics pass application validation",
+  "galleryFilters": "all and portrait pass",
+  "guide": "rendered with four tables; desktop and mobile",
+  "workflow": "six stages, real navigation, guide link and 390px overflow check pass",
+  "errors": []
+}

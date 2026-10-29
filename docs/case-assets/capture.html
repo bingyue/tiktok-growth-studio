@@ -1,0 +1,21 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080809"><title>采集说明 · REEL LAB</title><link rel="stylesheet" href="case.css"></head><body><header><a class="brand" href="index.html">REEL LAB</a><nav><a href="index.html">案例与素材</a><a href="guide.html">使用说明</a><a href="playbook.html">演示讲解</a><a href="http://127.0.0.1:4348/">打开工作区 ↗</a></nav></header><div class="license-notice">作者：越哥 · 全网同名：越哥聊AI · 所有使用须事先获得书面授权（法定及平台保留权利除外）。 <a href="LICENSE">自定义授权协议 ↗</a></div><div class="doc-layout"><aside class="toc"><span class="kicker">DOCUMENTATION</span><a href="#section-2">一次性复演</a><a href="#section-3">截图选择原则</a><a href="#section-4">文件约定</a><a href="采集说明.md" download>下载 Markdown ↗</a></aside><article class="article"><h1 id="section-1">案例截图与产物复演</h1>
+<p><strong>作者：越哥｜全网同名：越哥聊AI。所有使用均须事先获得作者明确书面授权；适用法律及托管平台保留的必要权利除外。</strong> 详见 <a href="LICENSE">自定义授权协议</a>。</p>
+<p>本目录的截图由真实本地应用产生，不是设计稿、AI 生成界面或拼接结果。使用当前 TikTok 配色；运行中、配置、结果、移动端分别保留原始 PNG。每张图的采集时间、尺寸、标题、图注和来源在 <code>manifest.json</code>。</p>
+<h2 id="section-2">一次性复演</h2>
+<p>先启动项目：</p>
+<pre><code>npm run dev</code></pre>
+<p>另开终端，在项目根目录执行：</p>
+<pre><code>npm run case:capture
+npm run case:build
+npm run case:verify</code></pre>
+<p>采集使用项目已有的 Playwright 和本机 Google Chrome。没有修改用户浏览器的标签或当前筛选状态。默认访问 <code>http://127.0.0.1:4348</code>，可用 <code>CASE_URL</code> 指定另一个本机演示服务。</p>
+<p>采集动作会通过真实界面新建一个独立 Demo 商品工作区、完成两轮内容、再次导入同一组模拟表现以验证幂等更新，并导出结果。它会增加 Demo 记录，不会删除旧商品。不要指向未知的公网服务或真实生产环境。</p>
+<p>实时读取失败时，脚本保存失败尝试到 <code>outputs/live-attempt.json</code>，再使用已取证商品快照；<code>outputs/run.json</code> 和素材页明确记录最终采用的模式。执行中截图可能属于实时读取尝试，应结合运行日志阅读，不能把失败尝试描述为成功实时抓取。</p>
+<p>截图采集失败时不要将残留目录当成完整新交付。先查看 <code>capture.log</code>，修复后重跑；只有出现 <code>CASE COMPLETE</code> 且 <code>outputs/run.json</code> 与 <code>manifest.json</code> 属于同一次运行，才重新构建案例页。</p>
+<p><code>npm run case:build</code> 从 Markdown、截图清单和实际导出数据生成 <code>index.html</code>、<code>guide.html</code> 及其他文档 HTML。Markdown 是编辑源；不要只修改生成的 HTML。</p>
+<h2 id="section-3">截图选择原则</h2>
+<ol><li>优先展示有商品、脚本、分镜和结果的页面，不以空状态作为核心营销素材。</li><li>保留任务实际状态、模拟数据标识、评论归属和规则评分限制。</li><li>设置页只截能力状态，不展示 <code>.env</code>、令牌、私有账号或未经授权的客户数据。</li><li>首页、Top20、分镜、复盘采用横屏画面；移动端另有 390 × 844 竖屏原图。</li><li>长图适合作为课程讲解和公众号分段配图；短视频优先放大单条分镜，不把整张宽表压入竖屏。</li><li>不修改真实数值，不给失败截图加“成功”文案，不把模拟竞品称为已验证爆款。</li></ol>
+<h2 id="section-4">文件约定</h2>
+<ul><li><code>screenshots/</code>：原始界面截图。</li><li><code>manifest.json</code>：截图清单、时间、视口与图注。</li><li><code>outputs/</code>：本次实际运行的两轮工作包、Top20、Shot List、复盘和运行证明。</li><li><code>examples/</code>：可替换的教学输入，文件名明确区分模拟表现。</li><li><code>使用说明.md</code>、<code>案例说明.md</code>、<code>输出示例.md</code>：使用与对外介绍。</li><li><code>演示与内容素材.md</code>：公众号、小红书、60秒口播与10分钟课程路线。</li><li><code>index.html</code>：本地可打开的素材总览，支持按阶段筛选截图。</li></ul>
+<p>校验脚本检查原始PNG、文档链接、教学输入格式、素材筛选、使用说明入口及移动端布局，结果保存到 <code>verification.json</code>。</p>
+<p>这是可交付素材包，不会自动发布到公众号、小红书或其他外部平台。</p></article></div></body></html>

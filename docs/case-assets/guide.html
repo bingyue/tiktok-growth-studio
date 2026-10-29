@@ -1,0 +1,73 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080809"><title>使用说明 · REEL LAB</title><link rel="stylesheet" href="case.css"></head><body><header><a class="brand" href="index.html">REEL LAB</a><nav><a href="index.html">案例与素材</a><a href="guide.html">使用说明</a><a href="playbook.html">演示讲解</a><a href="http://127.0.0.1:4348/">打开工作区 ↗</a></nav></header><div class="license-notice">作者：越哥 · 全网同名：越哥聊AI · 所有使用须事先获得书面授权（法定及平台保留权利除外）。 <a href="LICENSE">自定义授权协议 ↗</a></div><div class="doc-layout"><aside class="toc"><span class="kicker">DOCUMENTATION</span><a href="#section-2">1. 产品定位</a><a href="#section-3">2. 适用人群与核心场景</a><a href="#section-4">3. 首次启动与演示入口</a><a href="#section-5">4. 支持哪些输入</a><a href="#section-6">5. 从商品到可拍内容：操作步骤</a><a href="#section-15">6. 自然语言指令</a><a href="#section-16">7. 输出示例与阅读方法</a><a href="#section-17">8. Provider 配置</a><a href="#section-18">9. 注意事项与常见问题</a><a href="#section-19">10. 数据保存与复演</a><a href="使用说明.md" download>下载 Markdown ↗</a></aside><article class="article"><h1 id="section-1">REEL LAB · TikTok 短视频带货智能体使用说明</h1>
+<p><strong>作者：越哥｜全网同名：越哥聊AI。所有使用均须事先获得作者明确书面授权；适用法律及托管平台保留的必要权利除外。</strong> 详见 <a href="LICENSE">自定义授权协议</a>。</p>
+<p>适用版本：本机单团队 V1 · 2026-10-06。界面采用黑白、青色与玫红的 TikTok 风格配色。</p>
+<h2 id="section-2">1. 产品定位</h2>
+<p>REEL LAB 是一个面向带货内容团队的内容策划与迭代工作区。它把商品事实、评论洞察、视频参考结构、批量脚本、分镜、素材任务和效果复盘保存在同一个商品工作区，交付可以试读、拍摄和继续测试的内容方案。</p>
+<p>核心路线：<strong>商品链接 → 商品与评论研究 → 参考内容拆解 → 100 条脚本 → Top20 → 素材任务 → 导入表现 → Content DNA → 下一轮内容</strong>。</p>
+<p>当前可运行的是本机工作区。在线文本模型可选；TikTok 官方账户授权、自动视频生成、TTS、数字人、自动剪辑和发布尚未接入。无模型密钥时使用标明来源的本地策略引擎。</p>
+<h2 id="section-3">2. 适用人群与核心场景</h2>
+<div class="table-scroll"><table><thead><tr><th>人群</th><th>适合解决的日常问题</th><th>主要交付物</th></tr></thead><tbody><tr><td>TikTok Shop 卖家</td><td>一个商品不知道如何拆成不同卖法</td><td>13 类内容角度、100 条试拍方案、Top20</td></tr><tr><td>跨境品牌 / DTC 团队</td><td>英文脚本、人设和素材需求难以统一</td><td>本地化试读稿、创作者要求、拍摄任务</td></tr><tr><td>MCN / UGC 团队</td><td>同一商品要分配给不同创作者</td><td>大学生、宝妈、健身达人、测评博主人设脚本</td></tr><tr><td>投流 / 内容运营</td><td>历史内容数据无法反馈给下一批创作</td><td>同口径复盘、Content DNA、第二轮内容</td></tr><tr><td>培训讲师 / 售前团队</td><td>需要展示从输入到结果的完整案例</td><td>工作流页面、真实截图、演示输入和输出包</td></tr></tbody></table></div>
+<p>新品冷启动可先生成 100 条候选，再选 Top20 小批量试拍。素材复用场景可先看 Shot List；复盘场景应先整理自有视频级数据再导入。</p>
+<h2 id="section-4">3. 首次启动与演示入口</h2>
+<p>要求 Node.js 22.13 或更新版本。在项目根目录执行：</p>
+<pre><code>npm ci
+npm run dev</code></pre>
+<p>打开 <code>http://127.0.0.1:4348/</code>。</p>
+<ul><li>工作区为空：点击“运行真实商品 Demo”。</li><li>已有商品：进入“增长工作流”，点击“从真实链接运行 Demo”。</li><li>网络不稳定：点击“用来源快照演示”，或到“Providers &amp; Skills”点击“载入已取证的 Demo 快照”。这会读取带来源时间的已存档商品资料。</li><li>两种 Demo 都新建独立商品工作区，生成两轮各 100 条内容，并导入 <strong>30 条模拟历史表现</strong>。它们不会覆盖已有商品。</li><li>商品或批次不对时，使用页面顶部“切换商品”“切换批次”下拉框。最新商品会在刷新后默认选中。</li></ul>
+<p>终端也可复演：<code>npm run demo</code> 使用快照；<code>npm run demo -- --live</code> 重新研究公开商品。终端 Demo 不创建界面 Job 记录，因此工作流的“真实执行记录”可能为空，但批次产物仍可查看。</p>
+<h2 id="section-5">4. 支持哪些输入</h2>
+<div class="table-scroll"><table><thead><tr><th>输入</th><th>界面入口</th><th>格式与约束</th></tr></thead><tbody><tr><td>商品链接</td><td>新建商品 → 商品链接</td><td>Shopify、独立站公开结构化页面；TikTok Shop / Amazon 受限时用授权来源或 JSON</td></tr><tr><td>商品资料</td><td>新建商品 → 商品 JSON 导入</td><td>name、url、sellingPoints 必填；可附价格、图片、FAQ、规格、评论</td></tr><tr><td>视频参考</td><td>竞品拆解 → 导入参考视频</td><td>单个带时间戳镜头标注 JSON，或授权 Provider 视频 URL</td></tr><tr><td>批量要求</td><td>生成新一轮内容</td><td>数量 1–100；15 / 30 / 60 秒；市场、语言、人设、生产方式</td></tr><tr><td>视频表现</td><td>数据复盘 → 导入视频数据</td><td>CSV / JSON 数组，单文件不超过 5 MB；先选择真实或模拟来源</td></tr><tr><td>自然语言</td><td>页底“告诉智能体，下一步做什么”</td><td>支持下表中的有限类型命令，不是任意对话接口</td></tr></tbody></table></div>
+<p>商品导入模板见 <a href="examples/product-import.json">examples/product-import.json</a>。示例为教学商品，不宣称来自真实品牌。</p>
+<p>视频标注模板见 <a href="examples/reference-annotation.json">examples/reference-annotation.json</a>。教学参考采用模拟标识；真实使用时填写你有权使用的来源及观察到的内容。只有 URL 且没有授权解析 Provider 时，系统不会猜测画面和业绩。<code>annotated</code> 表示含人工镜头标注，<code>transcript</code> 表示仅转录；未知视觉信息应留空。</p>
+<h2 id="section-6">5. 从商品到可拍内容：操作步骤</h2>
+<h3 id="section-7">第一步：研究商品</h3>
+<p>点击“新建商品”，输入商品链接，选择“公开结构化商品页”，再点击“研究商品”。任务状态显示在页面顶部。成功后，在首页打开“查看商品洞察”，核对商品价格、卖点、FAQ、评论样本和来源。</p>
+<p>商品信息缺失时补充 JSON 或授权 Provider。评论中的相关单品样本与当前商品样本分开显示，不要将关联商品评论误读为当前 SKU 的评价。</p>
+<h3 id="section-8">第二步：积累参考结构</h3>
+<p>进入“竞品拆解”，导入逐镜头标注或转录。系统整理前 3 秒、镜头节奏、字幕结构、卖点顺序、情绪、CTA 和评论反馈，形成 Content Pattern。生成内容时借鉴结构，不直接复用竞品口播和素材。</p>
+<p>Demo 包含 1 条实际观察的品牌公开视频参考标注和 2 条模拟竞品结构。品牌参考并非独立竞品，也没有可证明其是爆款的业务数据。</p>
+<h3 id="section-9">第三步：生成第一轮</h3>
+<p>点击“生成新一轮内容”，建议首次使用：100 条、30 秒、美国、English、混合人设、本地策略引擎。点击“生成 100 条可拍脚本”。</p>
+<p>“内容角度矩阵”展示痛点、效果展示、前后对比、测评、开箱、教程、场景、用户故事、价格价值、反常识、FAQ、挑战、UGC 口碑等 13 类角度。点击单元格可以筛选脚本。</p>
+<p>本地清洁套装 Demo 有专门的拍摄方案；其他商品采用通用实物验证框架。通用模板仅支持中英文；其他语言建议接入模型。国家、人群和文化适配是创作假设，仍需当地人员审稿。</p>
+<h3 id="section-10">第四步：选择 Top20 并试读</h3>
+<p>首页点击“查看 Top20”，或在“脚本工作室”启用“仅 Top20”。打开任意脚本，查看三个页签：</p>
+<ol><li><strong>逐秒分镜</strong>：每镜头时长、口播、动作、字幕、B-roll、产品展示、转场和设备。</li><li><strong>完整口播</strong>：可复制口播、CTA 和音乐建议。</li><li><strong>拍摄要求与评分</strong>：Hook 强度、信息密度、拍摄易度、素材成本、产品清晰度、差异化、平台适配，以及拍摄要求。</li></ol>
+<p>七维分数是规则评分，用于排定试拍顺序，不是爆款概率、播放量或 GMV 预测。先试读并验证镜头可实现，再将脚本状态从“待试拍”改为“准备拍摄”；实际完成后才标记“已拍摄”。</p>
+<h3 id="section-11">第五步：分配素材与拍摄任务</h3>
+<p>进入“素材工厂”，查看真人拍摄、产品特写、场景等需求。点击“管理”填写负责人、状态、素材链接、使用权。同类素材可被多条脚本复用。</p>
+<p>“素材可用”要求提供有效 HTTP(S) 链接且确认自有或已获授权；系统不托管上传的视频文件。点击“导出 Shot List”交给拍摄团队。</p>
+<h3 id="section-12">第六步：导入历史表现</h3>
+<p>进入“数据复盘”，点击“导入视频数据”。真实业务选“真实业务数据 · 用户导入”；教学样本必须选“模拟数据 · 仅验证流程”。粘贴 CSV / JSON 或选择文件，再点“校验并导入数据”。</p>
+<p>基础字段：<code>externalId</code>、<code>publishedAt</code>（ISO UTC）、<code>currency</code>、<code>market</code>、<code>language</code>、<code>views</code>。可用本地 <code>scriptId</code> 关联脚本；若没有对应脚本，必须提供完整 <code>dna</code>，才能按内容标签复盘。关联脚本时以存档 DNA 为准。</p>
+<p>可选指标：<code>retention3s</code>、<code>completionRate</code>、<code>avgWatchSeconds</code>、<code>clicks</code>、<code>ctr</code>、<code>orders</code>、<code>cvr</code>、<code>gmv</code>、<code>spend</code>、<code>roas</code>。未知留空或 null，不能用零代替未知。JSON 比例用 0–1，CSV 也接受 <code>75%</code>。计数已知时会重算并核对比率。</p>
+<p>同商品、同来源和相同 externalId 的导入会更新原记录，不重复累计；一行校验失败时整批不保存。无脚本依赖的教学样例见 <a href="examples/performance-synthetic.json">examples/performance-synthetic.json</a>；完整 Demo 对应的 30 条样本见 <a href="outputs/history-synthetic.json">outputs/history-synthetic.json</a>，只适用于其关联的 Demo 商品。</p>
+<h3 id="section-13">第七步：复盘后生成第二轮</h3>
+<p>选择数据组（来源、市场、语言、币种），点击“复盘最近30条”。这里指按发布时间排序的最近 30 条视频，不是最近 30 天。不同币种和模拟 / 真实来源不能混用。</p>
+<p>查看 Content DNA 中的 Hook、结构、时长、人设、场景、卖点和 CTA 标签。每组至少 3 条，按播放量加权计算千次播放 GMV，并平滑小样本。结果是观察关联，不能解释为因果。</p>
+<p>点击“生成下一轮 100 条”。系统用复盘结果调整约 70% 候选方向，保留约 30% 探索，并避免历史完整组合重复。在“增长工作流”查看新批次、依据和导出入口。实拍、投放及新的业务数据仍由团队完成。</p>
+<h3 id="section-14">第八步：交付与导出</h3>
+<ul><li>顶部“导出工作包”：当前批次完整 JSON，包括商品、脚本、分镜、素材。</li><li>脚本工作室“导出脚本”：全部或 Top20 Markdown；角度 / 搜索筛选不会改变导出集合，只由 Top20 开关控制。</li><li>素材工厂“导出 Shot List”：全部素材任务 CSV。</li><li>增长工作流：可直接导出每一批的 Top20。</li></ul>
+<h2 id="section-15">6. 自然语言指令</h2>
+<div class="table-scroll"><table><thead><tr><th>示例</th><th>当前行为</th></tr></thead><tbody><tr><td>给这个商品生成100条美国市场脚本</td><td>在当前商品下新建 100 条批次；语言和时长默认沿用当前批次，需明确英文可加“英文”</td></tr><tr><td>只做15秒UGC</td><td>默认生成 20 条 15 秒 UGC 方案；不是 100 条</td></tr><tr><td>把Top10改成宝妈人设</td><td>对当前批次 Top10 改写人设，保存父脚本关系</td></tr><tr><td>根据最近30条视频数据重新生成下一批</td><td>使用该商品、市场、语言最近已保存的复盘生成内容；先在数据复盘页完成“复盘最近30条”</td></tr></tbody></table></div>
+<p>若提示没有复盘，先导入数据并运行对应市场和语言的复盘。复杂自由对话不会自动执行；明确数量、市场、语言、时长和人设更容易得到预期结果。</p>
+<h2 id="section-16">7. 输出示例与阅读方法</h2>
+<p>本次实际运行的完整 Top20 和分镜在 <a href="outputs/round-1-top20.md">outputs/round-1-top20.md</a>，优化后结果在 <a href="outputs/round-2-top20.md">outputs/round-2-top20.md</a>。单条完整示例在 <a href="输出示例.md">输出示例.md</a>。</p>
+<p>每条脚本应检查：目标用户 → 内容角度 → 前三秒 Hook → 完整口播 → 逐镜头时长和动作 → 字幕 → B-roll → 产品展示 → 音乐 → CTA → 总时长 → 评分与风险提示。直接交付团队时使用完整工作包，不要只截 Hook。</p>
+<p><img src="screenshots/09-storyboard.png" alt="逐镜头分镜" loading="lazy"></p>
+<h2 id="section-17">8. Provider 配置</h2>
+<p>“Providers &amp; Skills”页显示当前能力状态。配置文件在项目根目录，将 <code>.env.example</code> 复制为 <code>.env</code> 后填写并重启服务：</p>
+<pre><code>AI_BASE_URL=https://api.openai.com/v1
+AI_API_KEY=填写你自己的密钥
+AI_MODEL=填写你的模型名称
+DATA_PROVIDER_URL=你的授权数据网关
+DATA_PROVIDER_TOKEN=你的网关令牌</code></pre>
+<p>无需模型即可跑 Demo。使用模型时，在“生成新一轮内容”选择“兼容模型”。模型失败或结构不合格会显示错误、整批不落库，不会悄悄退回模板。在线模型质量、费用和延迟需在你的配置下另行验证。</p>
+<p>授权网关须遵循项目 <code>docs/PROVIDERS.md</code> 中的统一接口；填入地址不等于已获得 TikTok 或 Amazon 授权。模型密钥仅在服务器配置，截图和对外案例不要包含 <code>.env</code> 内容。</p>
+<h2 id="section-18">9. 注意事项与常见问题</h2>
+<div class="table-scroll"><table><thead><tr><th>情况</th><th>处理方式</th></tr></thead><tbody><tr><td>链接被限制或没有结构化商品信息</td><td>改用官方授权数据或商品 JSON；不要把读取失败当成研究成功</td></tr><tr><td>Demo 网络失败</td><td>查看任务错误，使用“用来源快照演示”；对外说明是历史快照</td></tr><tr><td>评论数量多，但当前商品样本少</td><td>按 scope 阅读；关联单品只能提供方向性参考</td></tr><tr><td>Top20 数量少于 20</td><td>当前批次小于 20 条时，Top 集合不超过批次总量</td></tr><tr><td>无法继续生成大量内容</td><td>现有角度 / 场景 / 人设组合可能耗尽，调整需求或补充策略，不要重复无限点生成</td></tr><tr><td>CSV 导入失败</td><td>检查数字、日期、比例、scriptId、完整 DNA 和点击 / 订单关系；错误修复后整批重试</td></tr><tr><td>没有 DNA 规律</td><td>可能样本不足、指标缺失或标签无可比较变化；积累同口径数据再分析</td></tr><tr><td>手机界面某些侧栏只剩图标</td><td>这是响应式布局；桌面端更适合批量查看矩阵与表格</td></tr><tr><td>重启后任务失败</td><td>重启会将未完成任务标为中断；重新发起，不会显示虚假完成</td></tr></tbody></table></div>
+<p>不编造产品功效、价格优惠、用户体验、前后对比或评论。人设是创作视角，不应冒充真实消费者证言。音乐和素材需确认商用权；竞品只借鉴结构。商品图片及品牌标识属于原权利人，Demo 不代表品牌委托、客户背书或合作授权。</p>
+<p>案例中的 GMV、ROAS 与高表现标签来自模拟样本。它证明流程和分配机制可运行，不能证明已经帮助品牌增长或提高投放 ROI。</p>
+<h2 id="section-19">10. 数据保存与复演</h2>
+<p>数据保存在 <code>data/studio.sqlite</code>，重启保留。备份前停服务并复制整个 <code>data</code> 目录，以保留可能存在的 WAL 文件。默认只监听 <code>127.0.0.1</code>，不包含多租户、权限管理和公网安全部署。</p>
+<p>修改代码后可运行 <code>npm run build</code>、<code>npm test</code>。截图复演见 <a href="采集说明.md">采集说明.md</a>。案例素材索引见 <a href="README.md">README.md</a>，对外简版见 <a href="案例说明.md">案例说明.md</a>。</p></article></div></body></html>
